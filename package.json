@@ -1,0 +1,29 @@
+{
+  "name": "ngfat18-gas-convert",
+  "version": "1.0.0",
+  "description": "ngfat18-gas-convert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ngphat/ngfat18-gas-convert.git"
+  },
+  "keywords": [
+    "ngfat18-gas-convert",
+    "ethereum",
+    "gas",
+    "eth",
+    "crypto"
+  ],
+  "author": "ngphat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngphat/ngfat18-gas-convert/issues"
+  },
+  "homepage": "https://github.com/ngphat/ngfat18-gas-convert#readme",
+  "dependencies": {
+    "web3": "^1.5.2"
+  }
+}
